@@ -3,7 +3,7 @@
 
 ### Sobre mim
 
-#### 💻 Meu nome é Edmar, mas mode todo mundo me chama de Ed. Sou desenvolvedor Web Full-Stack desde 2020. <br/> Atualmente eu trabalho como coordenador dos cursos de tecnologia da [@cubos.academy](https://www.instagram.com/cubos.academy/) impactando vidas por  <br/> meio da tecnologia e ajudando os estudantes em sua trilha como pessoas desenvolvedoras.
+#### 💻 Meu nome é Edmar, mas todo mundo me chama de Ed. Sou desenvolvedor Web Full-Stack desde 2020. <br/> Atualmente eu trabalho como coordenador dos cursos de tecnologia da [@cubos.academy](https://www.instagram.com/cubos.academy/) impactando vidas por  <br/> meio da tecnologia e ajudando os estudantes em sua trilha como pessoas desenvolvedoras.
 
 ---
 🎓 Sou formado em História com habilitação em Patrimônio Cultural pela | [UCSAL](https://ucsal.br/) | [@ucsaloficial](https://www.instagram.com/ucsaloficial/).
