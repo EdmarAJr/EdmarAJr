@@ -35,7 +35,8 @@
 ### Eu estou estudando... 🧩
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![C](https://img.shields.io/badge/C-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JAVA](https://img.shields.io/badge/C-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 ### Cursos realizados 🤓
