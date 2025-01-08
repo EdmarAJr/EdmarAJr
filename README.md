@@ -1,5 +1,5 @@
 
-# Oi, eu sou Edmar Amorim 🖖🏾
+# Oi, eu sou Edmar Amorim
 
 ### Sobre mim
 
